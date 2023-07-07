@@ -1,5 +1,7 @@
 # :jigsaw: Buzzquizz
 
+![Badge Finalizado](https://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=success&style=for-the-badge)
+
 Página web que possibilita ao usuário criar e responder os melhores quizzes online, além de colecionar seus testes favoritos.
 
 <div align=center>
